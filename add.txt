@@ -6,3 +6,4 @@ remote
 ellie
 Nara
 remote-2
+local
